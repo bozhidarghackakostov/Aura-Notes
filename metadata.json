@@ -1,0 +1,6 @@
+{
+  "name": "Aura Notes",
+  "description": "A modern, calm, and distraction-free note-taking application designed for effortless writing, instant search, and seamless organization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
