@@ -6,14 +6,6 @@
 [![Local-First](https://img.shields.io/badge/Architecture-Local--First-005ea5.svg)](#the-local-first-promise)
 [![Zero Distraction](https://img.shields.io/badge/Design-Calm%20%26%20Quiet-16a34a.svg)](#the-philosophy)
 
----
-
-<p align="center">
-  <img src="./Screenshot%202026-10-08%20at%2019.18.07.png" alt="Aura Notes — Focused 3-Pane Writing Space" width="100%" style="border-radius: 12px; border: 1px solid #c0c7d4; box-shadow: 0 10px 30px rgba(0,0,0,0.06);" />
-</p>
-
----
-
 ## The Philosophy
 
 Modern note-taking tools have lost their way.
