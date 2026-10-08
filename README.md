@@ -100,3 +100,8 @@ When you export:
 <p align="center">
   <sub>Aura Notes — Built for those who write to understand.</sub>
 </p>
+
+## Screenshots from the Live App
+
+<img width="1321" height="867" alt="1" src="https://github.com/user-attachments/assets/5c393821-c908-4948-bd41-7a1d8923dbf4" />
+<img width="1321" height="867" alt="2" src="https://github.com/user-attachments/assets/cdafc86a-d91f-4c2e-89aa-78d726a7b173" />
