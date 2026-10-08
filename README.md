@@ -36,10 +36,6 @@ The interface chrome is intentionally subdued into delicate hairline boundaries.
 
 Writing is messy; reading demands structure. Aura Notes bridges both with a synchronous live split canvas.
 
-<p align="center">
-  <img src="./Screenshot%202026-10-08%20at%2019.18.25.png" alt="Aura Notes — Live Split View & Interactive Task Architecture" width="100%" style="border-radius: 12px; border: 1px solid #c0c7d4; box-shadow: 0 10px 30px rgba(0,0,0,0.06);" />
-</p>
-
 On the left sits your raw, uncompromising plain-text Markdown buffer. On the right, your prose springs to life with typographic rhythm.
 
 - **Living Checklists**: Checkboxes aren't decorative static HTML. Tapping a task in the preview window instantly toggles the underlying `- [ ]` into `- [x]` in your raw source and saves it to disk in real time.
